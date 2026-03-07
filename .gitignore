@@ -2,3 +2,11 @@
 .Rhistory
 .RData
 .Ruserdata
+.DS_Store
+
+# xiaoyuzhou-export local/runtime artifacts
+xiaoyuzhou-export/.venv/
+xiaoyuzhou-export/downloads/
+xiaoyuzhou-export/logs/
+xiaoyuzhou-export/auth/storage_state.json
+xiaoyuzhou-export/xiaoyuzhou.db
